@@ -4,6 +4,8 @@ Open source design for centrifugal air pump for open source ventilator
 
 ![](https://i.imgur.com/frPcdIW.png)
 ![](https://i.imgur.com/8JI1hcI.png)
+![](https://i.imgur.com/lxOJ0GD.gif)
+![](https://i.imgur.com/W4aHHId.gif)
 
 The open ventilator centrifugal pump is part of the larger open ventilator project. 
 
