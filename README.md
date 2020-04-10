@@ -13,7 +13,9 @@ Open source design for centrifugal air pump for open source ventilator
 
 The open ventilator centrifugal pump is part of the larger open ventilator project. 
 
-The project commenced in response to identifiable shortages in ventilators during the outbreak of COVID 19d. 
+The project commenced in response to identifiable shortages in ventilators during the outbreak of COVID 19d.
+
+The design in branch master was the intial desing built and bench tested (see testing repo https://github.com/necro-nemesis/openventilator-test-bench). There are various other design iterations available in the "dev" branch some of which were used in various stages of further testing as well as alternate designs.
 
 Collaborative efforts commenced late Mar 2020 to find a low cost open source solution to assist in providing cost effective ventilators that could be produced with readily available materials and manufacturing processes.
 
